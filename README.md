@@ -1,5 +1,5 @@
 # pi-common
-General purpose scripts and install stuff for raspberry pi
+General purpose scripts and install stuff for raspberry pi (in progress)
 
 
 ### For Adafruit Crickit
